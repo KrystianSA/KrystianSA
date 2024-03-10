@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krystian Sąsiadek</h1>
-<h3 align="center">A passionate fullstack developer from Poland :)</h3>
+<h3 align="center">A passionate .Net developer from Poland :)</h3>
 
 - 🔭 I’m currently working on [SaaS_App](https://github.com/KrystianSA/SaaS_App)
 
