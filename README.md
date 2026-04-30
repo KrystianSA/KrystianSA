@@ -1,8 +1,20 @@
-<h1 align="center">Hi 👋, I'm Krystian Sąsiadek</h1>
+# Hi, I'm Krystian 👋
 
-Azure Cloud Engineer | Azure | Terraform | Docker | CI/CD | DevOps | Cybersecurity
+Azure Cloud Engineer focused on building secure and automated cloud solutions.
 
-Building cloud infrastructure and automating deployments on Microsoft Azure.
-Focused on Infrastructure as Code, CI/CD pipelines, and secure cloud environments.
+## 🔧 Tech Stack
+- Azure
+- Terraform
+- Docker
+- GitHub Actions (CI/CD)
 
-Open to Junior Cloud / DevOps roles (remote)
+## 🚀 Projects
+- DevOps pipeline with Docker and GitHub Actions
+- Automation workflows with n8n
+- SaaS backend application (.NET)
+
+## 🔐 Background
+2 years in Cybersecurity – security-first approach to cloud
+
+## 📫 Contact
+[LinkedIn](https://www.linkedin.com/in/krystian-sasiadek/)
