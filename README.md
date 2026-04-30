@@ -1,7 +1,8 @@
 # Hi, I'm Krystian 👋
 
-2+ years in cybersecurity transitioning into cloud engineering.
-Building secure and automated cloud environments on Microsoft Azure.
+Building real-world cloud projects focused on automation, infrastructure, and security.
+
+2+ years in cybersecurity transitioning into cloud engineering. Building secure and automated cloud environments on Microsoft Azure.
 
 Open to Junior Cloud / DevOps roles
 
@@ -10,14 +11,16 @@ Open to Junior Cloud / DevOps roles
 - Terraform
 - Docker
 - GitHub Actions (CI/CD)
+- Git
+- Linux
 
 ## 🚀 Projects
-- DevOps pipeline with Docker and GitHub Actions
-- Automation workflows with n8n
-- SaaS backend application (.NET)
+- Azure DevOps App Deployment (CI/CD + Terraform + Docker)
+- Automation workflows with n8n (event-driven automation)
+- SaaS backend application (.NET, REST API, authentication)
 
 ## 🔐 Background
 2 years in Cybersecurity – security-first approach to cloud
 
 ## 📫 Contact
-[LinkedIn](https://www.linkedin.com/in/krystian-sasiadek/)
+LinkedIn: https://linkedin.com/in/...
