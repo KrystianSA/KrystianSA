@@ -23,4 +23,4 @@ Open to Junior Cloud / DevOps roles
 2 years in Cybersecurity – security-first approach to cloud
 
 ## 📫 Contact
-LinkedIn: https://linkedin.com/in/...
+[Linkedin](https://www.linkedin.com/in/krystian-sasiadek/)
