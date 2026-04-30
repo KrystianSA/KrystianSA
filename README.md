@@ -1,6 +1,9 @@
 # Hi, I'm Krystian 👋
 
-Azure Cloud Engineer focused on building secure and automated cloud solutions.
+2+ years in cybersecurity transitioning into cloud engineering.
+Building secure and automated cloud environments on Microsoft Azure.
+
+Open to Junior Cloud / DevOps roles
 
 ## 🔧 Tech Stack
 - Azure
